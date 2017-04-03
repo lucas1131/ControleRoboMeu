@@ -13,6 +13,10 @@ Thaís Bianchini
 thais2.bianchini@usp.br	
 Gerente RH
 
+Ricardo Alves de Araujo
+ricardodogc@gmail.com
+Gerente de Robótica
+
 Marcos Wendell S. de O. Santos
 marcos.wendell.santos@usp.br
 Gerente Atividades	
