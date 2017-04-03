@@ -1,2 +1,2 @@
 # RobosNaEscola
-Um repositorio para agrupar todo o material publico desenvolvido para espandir o projeto de inclusao digital nas escolas publicas de Sao Carlos
+Um repositório para agrupar todo o material público desenvolvido para espandir o projeto de inclusão digital nas escolas públicas de São Carlos.
