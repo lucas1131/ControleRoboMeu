@@ -62,6 +62,7 @@ Fazendo parte desse grupo, você vai adquirir conhecimentos em gerenciamento fin
 
 
 
+Guilherme H. R. Coelho(guilhermehrc@usp.br) - Gerente de Marketing
 
 #timeMarketing
 Tem como função difundir as ideias do projeto utilizando redes sociais e anúncios. 
