@@ -9,7 +9,7 @@ Eduardo do Valle Simões(simoes@icmc.usp.br) - CEO
 Guilherme Augusto Bileki(bileki@usp.br) - Gerente Geral
 
 
-Lucas Mantovani(lucasmantovani@ups.br) - Gerente de Projetos
+Lucas Mantovani(lucasmantovani@usp.br) - Gerente de Projetos
 
 #timeProjetos
 Tem como função acompanhar as demais equipes para verificar o andamento do trabalho e o progresso das atividades. Busca manter tudo dentro do prazo, assim como avaliar a possibilidade de expansão para outros projetos.
