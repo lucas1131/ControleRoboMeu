@@ -36,7 +36,7 @@ Fazendo parte desse grupo, você terá contato com Arduino e eletrônica, ou sej
 
 
 
-Gabriel Toschi de Oliveira - gabriel.toschi@hotmail.com - Gerente de Atividades
+Gabriel Toschi de Oliveira(gabriel.toschi@hotmail.com) - Gerente de Atividades
 
 #timeAtividades
 Tem como função fazer as atividades/exercícios/jogos que as crianças vão participar/jogar durante as aulas, para fixar os conteúdos, os que usam robôs e os que não usam.
@@ -45,7 +45,7 @@ Fazendo parte desse grupo, você terá um maior contato com as crianças, podend
 
 
 
-Vitor Giovani Dellinocente - vitor.giovani.dellinocente@gmail.com - Gerente de Conteúdo
+Vitor Giovani Dellinocente(vitor.giovani.dellinocente@gmail.com) - Gerente de Conteúdo
 
 #timeConteudo
 Tem como função montar as aulas e seus respectivos materiais, filmes, slides e materiais necessários para as atividades.
@@ -54,7 +54,7 @@ Fazendo parte desse grupo, você vai adquirir mais habilidades com seu lado cria
 
 
 
-Chan Ken Chen - chan.chen@usp.br - Gerente de Finanças
+Chan Ken Chen(chan.chen@usp.br) - Gerente de Finanças
 
 #timeFinancas
 Tem como função arrecadar fundos por meio de patrocínios e gerenciar o dinheiro do projeto para compra de materiais apara os outros grupos.
