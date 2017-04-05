@@ -3,7 +3,7 @@ Um repositório para agrupar todo o material público desenvolvido para expandir
 
 Para entrar para um grupo ou tirar alguma dúvida, contate um dos seguintes gerentes:
 
-Eduardo do Valle Simões(simoes@icmc.usp.br) - CEO
+Eduardo do Valle Simões - CEO
 
 
 Guilherme Augusto Bileki(bileki@usp.br) - Gerente Geral
