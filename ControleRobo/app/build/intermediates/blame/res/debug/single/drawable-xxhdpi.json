@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\ControleRobo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\launcher_icon.png",
+        "source": "D:\\ControleRobo\\app\\src\\main\\res\\drawable-xxhdpi\\launcher_icon.png"
+    }
+]

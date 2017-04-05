@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\ControleRobo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\ControleRobo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_51d66affcde8d2130d7785fc9e8384c63c34b16f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="88ad59d109dbff5c5db1f1ccd27e0870f341a3f0">
+        <dex dex="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a194c447f3a715b3fd7c35fbf5da9e23b0447b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ControleRobo\app\libs\androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="D:\ControleRobo\app\build\intermediates\pre-dexed\debug\androidplot-core-0.6.1_298a587e5fff808b9dc84638244b2893054ee8b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e59edb379b1c6b6a36ddf9af096a6fd32991fc40">
+        <dex dex="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_44921296512822db382b7a38b6850ba824fde164\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ControleRobo\app\libs\commons-math3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="13af68e9a11576953f5c4b09436f8207be9d3a27">
+        <dex dex="D:\ControleRobo\app\build\intermediates\pre-dexed\debug\commons-math3-3.5_0266951f2c612772204760267f9ca3decd1a9a4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_836ff00f89a94ee04a7fcd8221715a378dcc0e3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\libs\androidplot-core-0.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\androidplot-core-0.6.1_2910b08419a1ed176b7a313be1a417e3aa053521\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\ControleRobo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\libs\commons-math3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="13af68e9a11576953f5c4b09436f8207be9d3a27">
+        <dex dex="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-math3-3.5_0890c0a9abb6cc57487113af96b119aefe52d9a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ControleRobo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\ControleRobo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_6ee624c7f280ab032c93e120f059a494bec19e93.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Guilherme Bileki\Desktop\AccelerationExplorer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_7e84414d0c14b67a0cbab4a4e3692fe56d3fd94e\classes.dex" />
+    </item>
+
+</items>

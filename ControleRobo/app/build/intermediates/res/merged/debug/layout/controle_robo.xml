@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+<!--    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/no_data"
+        android:id="@+id/data_value" />-->
+
+
+    <Button
+        android:text="Iniciar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="3"
+        android:rowCount="3"
+        android:layout_gravity="center"
+        android:layout_weight="0.11">
+
+        <Button
+            android:background="@color/dark_blue"
+            android:layout_width="100dp"
+            android:id="@+id/left"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:layout_height="100dp" />
+        <Button
+            android:background="@color/dark_blue"
+            android:layout_width="100dp"
+            android:id="@+id/front"
+            android:layout_column="1"
+            android:layout_row="0"
+            android:onClick="onClickFront"
+            android:layout_height="100dp" />
+        <Button
+            android:background="@color/dark_blue"
+            android:layout_width="100dp"
+            android:id="@+id/right"
+            android:layout_column="2"
+            android:layout_row="1"
+            android:onClick="onClickRight"
+            android:layout_height="100dp" />
+        <Button
+            android:background="@color/dark_blue"
+            android:layout_width="100dp"
+            android:id="@+id/back"
+            android:layout_column="1"
+            android:layout_row="2"
+            android:onClick="onClickBack"
+            android:layout_height="100dp" />
+        <Button
+            android:background="@color/dark_red"
+            android:layout_width="100dp"
+            android:id="@+id/stop"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:onClick="onClickStop"
+            android:layout_height="100dp" />
+    </GridLayout>
+</LinearLayout>

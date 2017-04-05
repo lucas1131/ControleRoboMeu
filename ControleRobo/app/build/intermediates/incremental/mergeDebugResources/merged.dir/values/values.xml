@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#ff000000</color>
+    <color name="dark_blue">#0099cc</color>
+    <color name="dark_green">#669900</color>
+    <color name="dark_orange">#FF8800</color>
+    <color name="dark_purple">#9933CC</color>
+    <color name="dark_red">#CC0000</color>
+    <color name="light_blue">#33B5E5</color>
+    <color name="light_green">#99CC00</color>
+    <color name="light_orange">#FFBB33</color>
+    <color name="light_purple">#AA66CC</color>
+    <color name="light_red">#FF4444</color>
+    <color name="mid_blue">#18A6D8</color>
+    <color name="mid_green">#7EB000</color>
+    <color name="mid_orange">#FFA018</color>
+    <color name="mid_purple">#A14ACC</color>
+    <color name="mid_red">#E21E1E</color>
+    <color name="white">#ffffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">Controle Robô</string>
+    <string name="ble_not_supported">BLE não é suportado</string>
+    <string name="connected">Conectado</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="error_bluetooth_not_supported">Bluetooth não é suportado.</string>
+    <string name="label_data">Dados:</string>
+    <string name="label_device_address">Endereço do Aparelho:</string>
+    <string name="label_state">Estado:</string>
+    <string name="menu_connect">Conectar</string>
+    <string name="menu_disconnect">Desconectar</string>
+    <string name="menu_scan">Scanear</string>
+    <string name="menu_stop">Parar</string>
+    <string name="no_data">Sem dados</string>
+    <string name="title_devices">Controle</string>
+    <string name="unknown_characteristic">característica Desconhecida</string>
+    <string name="unknown_device">Aparelho Desconhecido</string>
+    <string name="unknown_service">Serviço Desconhecido</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
