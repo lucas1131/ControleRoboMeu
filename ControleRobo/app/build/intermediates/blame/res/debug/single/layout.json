@@ -1,22 +1,42 @@
 [
     {
-        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
-        "source": "D:\\ControleRobo\\app\\src\\main\\res\\layout\\listitem_device.xml"
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/merged/debug/layout/controle_robo.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/layout/controle_robo.xml"
     },
     {
-        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
-        "source": "D:\\ControleRobo\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
     },
     {
-        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
-        "source": "D:\\ControleRobo\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/layout/gatt_services_characteristics.xml"
     },
     {
-        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\controle_robo.xml",
-        "source": "D:\\ControleRobo\\app\\src\\main\\res\\layout\\controle_robo.xml"
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
     },
     {
-        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home.xml",
-        "source": "D:\\ControleRobo\\app\\src\\main\\res\\layout\\layout_home.xml"
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\layout\\layout_home.xml"
+    },
+    {
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\controle_robo.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\layout\\controle_robo.xml"
+    },
+    {
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/merged/debug/layout/layout_home.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/layout/layout_home.xml"
+    },
+    {
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/layout/listitem_device.xml"
     }
 ]

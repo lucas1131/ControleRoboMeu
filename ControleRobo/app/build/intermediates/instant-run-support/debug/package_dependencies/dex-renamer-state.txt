@@ -1,0 +1,16 @@
+#Thu Apr 13 15:14:11 BRT 2017
+renamed.4=classes3.dex
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes5.dex
+base.4=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_49c68685f23e02dc91e66734da2da8430da928b7
+renamed.0=classes2.dex
+base.3=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidplot-core-0.6.1_519144bea269cde5e2e739c41b0b4e7310fc48d2
+base.2=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_74cac043fda268750af1bebecbfdc75a1aed2595
+base.1=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-math3-3.5_9526b134325f76c82a9a46eda809fd606f358f99
+base.0=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31862ca62ac67a0e373308a27c274ebda7b6ed89
+file.4=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_49c68685f23e02dc91e66734da2da8430da928b7/classes.dex
+file.3=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidplot-core-0.6.1_519144bea269cde5e2e739c41b0b4e7310fc48d2/classes.dex
+file.2=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_74cac043fda268750af1bebecbfdc75a1aed2595/classes.dex
+file.1=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-math3-3.5_9526b134325f76c82a9a46eda809fd606f358f99/classes.dex
+file.0=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31862ca62ac67a0e373308a27c274ebda7b6ed89/classes.dex

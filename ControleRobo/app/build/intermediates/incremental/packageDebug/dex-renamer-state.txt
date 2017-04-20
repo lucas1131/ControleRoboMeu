@@ -1,4 +1,7 @@
-#Wed Apr 05 20:01:54 BRT 2017
-base.0=D\:\\ControleRobo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Thu Apr 20 11:39:57 BRT 2017
+base.0=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ecf5b43fc640614a540cb7726f455cf175207877
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\ControleRobo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3cd0cddc1fee6e08f817c17b036e5363dd8a7cc8/classes.dex
+base.1=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3cd0cddc1fee6e08f817c17b036e5363dd8a7cc8
+file.0=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ecf5b43fc640614a540cb7726f455cf175207877/classes.dex

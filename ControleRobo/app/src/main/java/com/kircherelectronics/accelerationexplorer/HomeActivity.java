@@ -1,11 +1,10 @@
 package com.kircherelectronics.accelerationexplorer;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
+import android.content.Intent;
 
 public class HomeActivity extends Activity {
 
@@ -13,8 +12,10 @@ public class HomeActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // Initialize home layout
         setContentView(R.layout.layout_home);
 
+        // Initialize bluetooth button
         initButtonBluetooth();
     }
 
@@ -30,6 +31,7 @@ public class HomeActivity extends Activity {
     }
 
     private void initButtonBluetooth() {
+        
         Button button = (Button) this.findViewById(R.id.button_bluetooth_mode);
 
         button.setOnClickListener(new View.OnClickListener() {
@@ -40,7 +42,6 @@ public class HomeActivity extends Activity {
                 startActivity(intent);
             }
         });
+
     }
-
-
 }

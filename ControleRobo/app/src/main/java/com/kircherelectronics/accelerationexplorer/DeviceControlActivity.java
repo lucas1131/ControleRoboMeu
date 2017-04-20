@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
 package com.kircherelectronics.accelerationexplorer;
 
 import android.app.Activity;
@@ -25,7 +24,6 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.ServiceConnection;
 import android.os.Bundle;
-import android.os.Handler;
 import android.os.IBinder;
 import android.util.Log;
 import android.view.Menu;
@@ -35,8 +33,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ExpandableListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
+import java.io.IOException;
 import java.util.ArrayList;
 
 /**
@@ -46,15 +44,22 @@ import java.util.ArrayList;
  * Bluetooth LE API.
  */
 public class DeviceControlActivity extends Activity implements Runnable {
+    
     public static final String EXTRAS_DEVICE_NAME = "DEVICE_NAME";
     public static final String EXTRAS_DEVICE_ADDRESS = "DEVICE_ADDRESS";
     private final static String TAG = DeviceControlActivity.class.getSimpleName();
+    
     private Thread thread;
     public BluetoothLeService mBluetoothLeService;
     public boolean mConnected = false;
     private TextView mDataField;
+    private boolean masterStopped = false;
+
+    private Server server = null;
+    private TextView ip;
 
     private int l = 0, r = 0, vel = 0;
+    
     int i = 0;
     boolean flagTouchLeft = false;
     boolean flagTouchRight = false;
@@ -175,6 +180,14 @@ public class DeviceControlActivity extends Activity implements Runnable {
         Intent gattServiceIntent = new Intent(this, BluetoothLeService.class);
         bindService(gattServiceIntent, mServiceConnection, BIND_AUTO_CREATE);
 
+        try {
+            this.server = new Server();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        ip = (TextView) findViewById(R.id.localIp);
+        ip.setText("ip: " + server.LOCAL_IP);
     }
 
     private void updateI() {
@@ -241,17 +254,35 @@ public class DeviceControlActivity extends Activity implements Runnable {
 
     }
 
-
+    public void toggleMasterFlag(){
+        this.masterStopped = !this.masterStopped;
+    }
 
     @Override
-    public void run()
-    {
-        while (!Thread.currentThread().isInterrupted())
-        {
+    public void run() {
+
+        String msg;
+        Thread serverThread = new Thread(this.server);
+        serverThread.start();
+        
+        // If master controller sets the flag 'masterStopped', the robot will 
+        // stop receiving commands
+        while (!Thread.currentThread().isInterrupted() && !masterStopped) {
+
+            // If there is a client bound to this server
+            if(this.server.server.isBound()){
+
+                // If we have at least one message, get all messages
+                while(server.serverIn.hasNextLine()){
+
+                    msg = server.serverIn.nextLine();
+                    if(msg.equals("toggle")) toggleMasterFlag(); // Disable Tira-Tampa
+                }
+            }
+
             i++;
             System.out.println(i);
             for (int j = 0; j < 70000000; j++);
-
 
             if (flagTouchLeft) {
                 if(l > 0)
@@ -268,6 +299,11 @@ public class DeviceControlActivity extends Activity implements Runnable {
             }
             onClickWrite(l, r);
         }
+
+        // Stop the Tira-Tampa
+        l = 0;
+        r = 0;
+        onClickWrite(l, r);
 
     }
 

@@ -1,10 +1,18 @@
 [
     {
-        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "D:\\ControleRobo\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/menu/gatt_services.xml"
     },
     {
-        "merged": "D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
-        "source": "D:\\ControleRobo\\app\\src\\main\\res\\menu\\gatt_services.xml"
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\menu\\gatt_services.xml"
     }
 ]

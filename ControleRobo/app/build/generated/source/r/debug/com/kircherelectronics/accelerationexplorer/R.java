@@ -38,23 +38,24 @@ public final class R {
         public static final int launcher_icon=0x7f020001;
     }
     public static final class id {
-        public static final int back=0x7f090004;
-        public static final int button=0x7f090000;
-        public static final int button_bluetooth_mode=0x7f09000a;
-        public static final int connection_state=0x7f090007;
-        public static final int data_value=0x7f090008;
-        public static final int device_address=0x7f090006;
-        public static final int device_name=0x7f09000b;
-        public static final int front=0x7f090002;
-        public static final int gatt_services_list=0x7f090009;
-        public static final int left=0x7f090001;
-        public static final int menu_connect=0x7f09000d;
-        public static final int menu_disconnect=0x7f09000e;
-        public static final int menu_refresh=0x7f09000c;
-        public static final int menu_scan=0x7f09000f;
-        public static final int menu_stop=0x7f090010;
-        public static final int right=0x7f090003;
-        public static final int stop=0x7f090005;
+        public static final int back=0x7f090005;
+        public static final int button=0x7f090001;
+        public static final int button_bluetooth_mode=0x7f09000b;
+        public static final int connection_state=0x7f090008;
+        public static final int data_value=0x7f090009;
+        public static final int device_address=0x7f090007;
+        public static final int device_name=0x7f09000c;
+        public static final int front=0x7f090003;
+        public static final int gatt_services_list=0x7f09000a;
+        public static final int left=0x7f090002;
+        public static final int localIp=0x7f090000;
+        public static final int menu_connect=0x7f09000e;
+        public static final int menu_disconnect=0x7f09000f;
+        public static final int menu_refresh=0x7f09000d;
+        public static final int menu_scan=0x7f090010;
+        public static final int menu_stop=0x7f090011;
+        public static final int right=0x7f090004;
+        public static final int stop=0x7f090006;
     }
     public static final class layout {
         public static final int actionbar_indeterminate_progress=0x7f030000;

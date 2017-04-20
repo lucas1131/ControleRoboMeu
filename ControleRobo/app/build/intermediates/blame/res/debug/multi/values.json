@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\ControleRobo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 92
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 102,
+                        "startOffset": 98,
                         "endColumn": 41,
-                        "endOffset": 139
+                        "endOffset": 135
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 136
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 235,
+                        "startOffset": 228,
                         "endColumn": 43,
-                        "endOffset": 274
+                        "endOffset": 267
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 181
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 513,
+                        "startOffset": 500,
                         "endColumn": 44,
-                        "endOffset": 553
+                        "endOffset": 540
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 227
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 653,
+                        "startOffset": 637,
                         "endColumn": 45,
-                        "endOffset": 694
+                        "endOffset": 678
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 273
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 374,
+                        "startOffset": 364,
                         "endColumn": 45,
-                        "endOffset": 415
+                        "endOffset": 405
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 316
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 788,
+                        "startOffset": 769,
                         "endColumn": 42,
-                        "endOffset": 826
+                        "endOffset": 807
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 361
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 145,
+                        "startOffset": 140,
                         "endColumn": 44,
-                        "endOffset": 185
+                        "endOffset": 180
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 407
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 421,
+                        "startOffset": 410,
                         "endColumn": 45,
-                        "endOffset": 462
+                        "endOffset": 451
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 454
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 559,
+                        "startOffset": 545,
                         "endColumn": 46,
-                        "endOffset": 601
+                        "endOffset": 587
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 501
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 272,
                         "endColumn": 46,
-                        "endOffset": 322
+                        "endOffset": 314
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 545
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 700,
+                        "startOffset": 683,
                         "endColumn": 43,
-                        "endOffset": 739
+                        "endOffset": 722
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 588
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 191,
+                        "startOffset": 185,
                         "endColumn": 42,
-                        "endOffset": 229
+                        "endOffset": 223
                     }
                 }
             },
@@ -239,13 +239,13 @@
                     "endOffset": 632
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 468,
+                        "startOffset": 456,
                         "endColumn": 43,
-                        "endOffset": 507
+                        "endOffset": 495
                     }
                 }
             },
@@ -258,13 +258,13 @@
                     "endOffset": 677
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 607,
+                        "startOffset": 592,
                         "endColumn": 44,
-                        "endOffset": 647
+                        "endOffset": 632
                     }
                 }
             },
@@ -277,13 +277,13 @@
                     "endOffset": 722
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 328,
+                        "startOffset": 319,
                         "endColumn": 44,
-                        "endOffset": 368
+                        "endOffset": 359
                     }
                 }
             },
@@ -296,13 +296,13 @@
                     "endOffset": 764
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 745,
+                        "startOffset": 727,
                         "endColumn": 41,
-                        "endOffset": 782
+                        "endOffset": 764
                     }
                 }
             },
@@ -315,13 +315,13 @@
                     "endOffset": 806
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 59,
+                        "startOffset": 56,
                         "endColumn": 41,
-                        "endOffset": 96
+                        "endOffset": 93
                     }
                 }
             },
@@ -334,13 +334,13 @@
                     "endOffset": 864
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 92,
+                        "startOffset": 89,
                         "endColumn": 57,
-                        "endOffset": 145
+                        "endOffset": 142
                     }
                 }
             },
@@ -353,13 +353,13 @@
                     "endOffset": 920
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 151,
+                        "startOffset": 147,
                         "endColumn": 55,
-                        "endOffset": 202
+                        "endOffset": 198
                     }
                 }
             },
@@ -372,7 +372,7 @@
                     "endOffset": 971
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 1037
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 1085
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 1139
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 1224
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 1270
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 1341
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 1389
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 1439
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 1495
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 1541
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 1585
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 1631
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 1682
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 1761
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 1826
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 1891
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -696,7 +696,738 @@
                     "endOffset": 2182
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2187,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2342
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 41,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 43,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 43,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 44,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 44,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 45,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 45,
+                        "endOffset": 694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 45,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 45,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 42,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 42,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 44,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 44,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 366,
+                    "endColumn": 45,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 45,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 46,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 46,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endColumn": 46,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 46,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 43,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endColumn": 43,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 42,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 42,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 43,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 43,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 44,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 44,
+                        "endOffset": 647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 44,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 44,
+                        "endOffset": 368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 41,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 41,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 41,
+                    "endOffset": 806
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 41,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 811,
+                    "endColumn": 57,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 55,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 50,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 65,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 65,
+                        "endOffset": 226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endColumn": 47,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 47,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 53,
+                    "endOffset": 1139
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 490,
+                        "endColumn": 53,
+                        "endOffset": 539
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1144,
+                    "endColumn": 84,
+                    "endOffset": 1224
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 84,
+                        "endOffset": 675
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1229,
+                    "endColumn": 45,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 231,
+                        "endColumn": 45,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 70,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 70,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 47,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 47,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 49,
+                    "endOffset": 1439
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 49,
+                        "endOffset": 960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1444,
+                    "endColumn": 55,
+                    "endOffset": 1495
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 55,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1500,
+                    "endColumn": 45,
+                    "endOffset": 1541
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 45,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1546,
+                    "endColumn": 43,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1067,
+                        "endColumn": 43,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endColumn": 45,
+                    "endOffset": 1631
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 45,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1636,
+                    "endColumn": 50,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endColumn": 50,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 78,
+                    "endOffset": 1761
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 78,
+                        "endOffset": 820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1766,
+                    "endColumn": 64,
+                    "endOffset": 1826
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 64,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1831,
+                    "endColumn": 64,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 64,
+                        "endOffset": 885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 2182
+                },
+                "from": {
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -717,7 +1448,7 @@
                     "endOffset": 2342
                 },
                 "from": {
-                    "file": "D:\\ControleRobo\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/D:\\ControleRobo\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

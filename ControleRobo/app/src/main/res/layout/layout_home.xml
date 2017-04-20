@@ -4,9 +4,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-
-
-
     <View
         android:layout_width="fill_parent"
         android:layout_height="1dp"
@@ -22,12 +19,12 @@
 
         <Button
             android:id="@+id/button_bluetooth_mode"
-            android:layout_width="0dp"
+            android:layout_width="20dp"
             android:layout_height="wrap_content"
             android:layout_weight="0.75"
             android:scaleType="centerInside"
             android:text="Ligar BT" />
+
+
     </LinearLayout>
-
-
 </LinearLayout>
