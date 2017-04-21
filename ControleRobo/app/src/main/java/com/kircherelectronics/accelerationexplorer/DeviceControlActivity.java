@@ -187,7 +187,8 @@ public class DeviceControlActivity extends Activity implements Runnable {
         }
 
         ip = (TextView) findViewById(R.id.localIp);
-        ip.setText("ip: " + server.LOCAL_IP);
+        ip.setText("ip: " + Server.getIp());
+
     }
 
     private void updateI() {
@@ -262,17 +263,23 @@ public class DeviceControlActivity extends Activity implements Runnable {
     public void run() {
 
         String msg;
-        Thread serverThread = new Thread(this.server);
-        serverThread.start();
+        Thread serverThread = null;
+
+
+        if(this.server != null){   
+            serverThread = new Thread(this.server);
+            serverThread.start();
+        }
         
         // If master controller sets the flag 'masterStopped', the robot will 
         // stop receiving commands
         while (!Thread.currentThread().isInterrupted() && !masterStopped) {
 
             // If there is a client bound to this server
-            if(this.server.server.isBound()){
+            if(serverThread != null && this.server.serverIn != null){
 
                 // If we have at least one message, get all messages
+                System.out.println("[Debug]: server input: " + server.serverIn);
                 while(server.serverIn.hasNextLine()){
 
                     msg = server.serverIn.nextLine();

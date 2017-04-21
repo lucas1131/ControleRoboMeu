@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Thu Apr 20 11:39:55 BRT 2017
+#Thu Apr 20 12:40:47 BRT 2017
 2.base=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_
-5.file=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_/res/layout/gatt_services_characteristics.xml
+5.file=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_/res/layout/layout_home.xml
 5.set=ANDROID_RESOURCE
 3.base=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_
-6.file=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/launcher_icon.png
+6.file=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_/res/layout/gatt_services_characteristics.xml
 2.set=ANDROID_RESOURCE
 10.set=ANDROID_RESOURCE
 10.file=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
@@ -31,6 +31,6 @@ count=11
 3.set=ANDROID_RESOURCE
 1.base=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_
 9.base=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_
-4.file=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_/res/layout/layout_home.xml
+4.file=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/launcher_icon.png
 8.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE

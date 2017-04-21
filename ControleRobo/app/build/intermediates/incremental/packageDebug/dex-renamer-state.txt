@@ -1,4 +1,4 @@
-#Thu Apr 20 11:39:57 BRT 2017
+#Thu Apr 20 12:40:49 BRT 2017
 base.0=/home/iron/aulas/simoes-robos/ControladorRobo/ControleRobo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ecf5b43fc640614a540cb7726f455cf175207877
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -15,7 +15,7 @@ public class HomeActivity extends Activity implements Runnable {
     private EditText editTextAddress, editTextPort;
 
     public Button toggleButton;
-
+    public HomeActivity self;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -32,7 +32,7 @@ public class HomeActivity extends Activity implements Runnable {
         response = (TextView) findViewById(R.id.responseTextView);
 
         toggleButton.setActivated(false);
-
+        self = this;
         buttonConnect.setOnClickListener(new OnClickListener() {
 
             @Override
@@ -40,7 +40,8 @@ public class HomeActivity extends Activity implements Runnable {
                 client = new Client(editTextAddress.getText().toString(), response);
                 toggleButton.setActivated(true);
                 client.execute();
-                run();
+                Thread thread = new Thread(self);
+                thread.start();
             }
         });
 
